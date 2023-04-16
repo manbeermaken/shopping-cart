@@ -7,7 +7,7 @@ A simple fake store React app.
 ## Getting started
 
 ```
-git clone https://github.com/michalosman/shopping-cart.git
+git clone https://github.com/manbeermaken/shopping-cart.git
 cd shopping-cart
 npm install
 npm start
